@@ -1,0 +1,2 @@
+CREATE SCHEMA IF NOT EXISTS etl_staging;
+GRANT ALL PRIVILEGES ON SCHEMA etl_staging TO etl;
